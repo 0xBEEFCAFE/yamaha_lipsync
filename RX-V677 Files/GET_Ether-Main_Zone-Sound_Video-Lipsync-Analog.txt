@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<YAMAHA_AV cmd="GET">
+<Main_Zone>
+    <Sound_Video>
+        <Lipsync>
+            <Analog>GetParam</Analog>
+        </Lipsync>
+    </Sound_Video>
+</Main_Zone>
+</YAMAHA_AV>

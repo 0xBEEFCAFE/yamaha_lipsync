@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<YAMAHA_AV cmd="PUT">
+<Main_Zone>
+    <Sound_Video>
+        <Lipsync>
+            <HDMI_Out_1>
+                <Offset_for_Auto>
+                    <Val>***</Val>
+                    <Exp>***</Exp>
+                    <Unit>***</Unit>
+                </Offset_for_Auto>
+                <Manual>
+                    <Val>***</Val>
+                    <Exp>***</Exp>
+                    <Unit>***</Unit>
+                </Manual>
+            </HDMI_Out_1>
+        </Lipsync>
+    </Sound_Video>
+</Main_Zone>
+</YAMAHA_AV>
